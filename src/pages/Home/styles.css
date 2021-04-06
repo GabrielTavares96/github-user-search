@@ -1,0 +1,26 @@
+.home-content {
+    padding-top: 180px;
+    padding-left: 120px;
+    padding-bottom: 265px;
+}
+
+.home-title {
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+    margin-bottom: 25px;
+}
+
+.home-text {
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+    margin-bottom: 50px;
+}
+
+.home-text-color {
+    text-decoration: none;
+    color: #2295fe;
+}
