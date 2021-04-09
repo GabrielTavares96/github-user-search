@@ -6,6 +6,8 @@
     justify-content: center;
     border: none;
     cursor: pointer;
+    outline: none;
+    display: block;
 }
 
 .btn-text {
@@ -14,4 +16,5 @@
     color: #FFFFFF;
     margin: 0;
     justify-content: center;
+    text-decoration: none;
 }

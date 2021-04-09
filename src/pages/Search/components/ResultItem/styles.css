@@ -1,0 +1,17 @@
+.result-info {
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    height: 40px;
+    justify-content: center;
+    width: 740px;
+}
+
+.result-text {
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    padding: 8px 10px 30px 8px;
+}
